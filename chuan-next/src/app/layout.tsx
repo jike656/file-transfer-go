@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "文件快传",
-  description: "安全、快速、简单的文件传输服务",
+  title: "局域网文件传输",
+  description: "局域网内实现安全、快速、简单的文件传输服务",
 };
 
 export default function RootLayout({

@@ -20,17 +20,7 @@ export default function Footer() {
             <HelpCircle className="w-3.5 h-3.5" />
             帮助
           </Link>
-          
-          <a 
-            href="https://github.com/MatrixSeven/file-transfer-go" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="text-slate-500 hover:text-slate-700 transition-colors duration-200 flex items-center gap-1"
-          >
-            <Github className="w-3.5 h-3.5" />
-            开源地址
-          </a>
-          
+
           <a 
             href="https://x.com/_MatrixSeven" 
             target="_blank" 

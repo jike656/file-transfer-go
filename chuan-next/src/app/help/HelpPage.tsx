@@ -244,12 +244,7 @@ export default function HelpPage() {
         <div className="flex items-center justify-center gap-3 mb-4">
           <div className="p-3 bg-blue-100 rounded-xl">
             <Book className="w-8 h-8 text-blue-600" />
-          </div>
-          <h1 className="text-2xl lg:text-3xl font-bold text-gray-900">使用帮助</h1>
         </div>
-        <p className="text-base lg:text-lg text-gray-600 max-w-2xl mx-auto">
-          详细的部署指南和使用说明，帮助您快速上手文件传输工具
-        </p>
       </div>
 
       <div className="relative">

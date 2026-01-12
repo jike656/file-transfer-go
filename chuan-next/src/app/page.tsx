@@ -2,7 +2,7 @@ import HomePageWrapper from './HomePageWrapper';
 
 // 静态生成配置
 export const metadata = {
-  title: 'File Transfer - 文件传输',
+  title: '超凡网络 - 局域网文件传输',
   description: '简单快速的文件传输工具',
 }
 
